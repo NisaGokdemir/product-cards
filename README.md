@@ -23,7 +23,7 @@ The Product Card Showcase project displays product cards with detailed informati
 <img src="productcard.png" alt="" width="300" height="280">
 
 ## Live Demo 🌐
-Live Demo: [Product Card Showcase Demo]()
+Live Demo: [Product Card Showcase Demo](https://product-cards-six.vercel.app/)
 
 ## Installation
 No special installation is required for this project. Simply open the `index.html` file in a web browser.
